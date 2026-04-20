@@ -1,9 +1,10 @@
-<h3>Ola, sou Leandro dos Reis.<h3/>
+### Ola, sou Leandro dos Reis.
 
-<h4>Sou estudante de ***Engenharia da Computação pela UNIVESP*** e de ***Desenvolvimento de Sistemas pelo SENAI.***
+    
+Sou estudante de ***Engenharia da Computação pela UNIVESP*** e de ***Desenvolvimento de Sistemas pelo SENAI.***
 
 Sou um grande entusiasta da tecnologia em todas suas vertentes, é isso que me motiva estar cursando um curso superior, um tecnico e ainda procurar estagio!
-<h4/>
+
 
 <h3> Para uma experiência mais imersiva sobre mim aqui está meu portifólio https://leandrodosreis.github.io/Portifolio/ <h3/>
 
