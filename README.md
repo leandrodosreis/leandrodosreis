@@ -8,6 +8,11 @@ Sou um grande entusiasta da tecnologia em todas suas vertentes, é isso que me m
 
 <h3> Para uma experiência mais imersiva sobre mim aqui está meu portifólio https://leandrodosreis.github.io/Portifolio/ <h3/>
 
+Aqui esta meu curriculo fique a vontade para analise
+
+[Curriculo-Leandro.pdf](https://github.com/user-attachments/files/27209503/Curriculo-Leandro.pdf)
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
