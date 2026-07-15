@@ -10,7 +10,8 @@ Sou um grande entusiasta da tecnologia em todas suas vertentes, é isso que me m
 
 Aqui esta meu curriculo fique a vontade para analise
 
-[Curriculo-Leandro.pdf](https://github.com/user-attachments/files/27209503/Curriculo-Leandro.pdf)
+[Curriculo-LeandroReis.pdf](https://github.com/user-attachments/files/30029420/Curriculo-LeandroReis.pdf)
+
 
 
 ### 🤖 Linguagens e Tecnologias
